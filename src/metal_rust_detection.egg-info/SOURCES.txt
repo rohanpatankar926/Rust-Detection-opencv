@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/metal_rust_detection.egg-info/PKG-INFO
+src/metal_rust_detection.egg-info/SOURCES.txt
+src/metal_rust_detection.egg-info/dependency_links.txt
+src/metal_rust_detection.egg-info/top_level.txt
+src/rust_detect/__init__.py
+src/rust_detect/detect_rust.py
