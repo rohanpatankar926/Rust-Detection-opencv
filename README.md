@@ -43,7 +43,7 @@ directly in terms of pixels will work well.
 
 
 
-- Clone this repo to your local machine using `https://github.com/kaustubh-Beta/Rust-detection-algorithmm.git`
+- Clone this repo to your local machine using `https://github.com/rohanpatankar926/Rust-Detection-opencv.git`
 
 
 
